@@ -7,3 +7,4 @@ for i in range(0, N+1):
 print(fish)
 
 # 일권 브랜치에서 작업
+# 나는 메인이에요
