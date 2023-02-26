@@ -30,7 +30,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Yoon/Documents/GitHub/Good-Night-Hackathon-SpringBoot"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -48,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677327441304</updated>
-      <workItem from="1677327443200" duration="538000" />
+      <workItem from="1677327443200" duration="851000" />
+      <workItem from="1677336237416" duration="19000" />
     </task>
     <servers />
   </component>
