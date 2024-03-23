@@ -20,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2MEKjcKUDOhjZ4mW9UXicdLqbKG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +34,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yoon/Documents/GitHub/Good-Night-Hackathon-SpringBoot"
+    "last_opened_file_path": "C:/Users/Yoon/Documents/GitHub/Good-Night-Hackathon-SpringBoot",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -51,6 +55,7 @@
       <updated>1677327441304</updated>
       <workItem from="1677327443200" duration="851000" />
       <workItem from="1677336237416" duration="19000" />
+      <workItem from="1711178216114" duration="79000" />
     </task>
     <servers />
   </component>
